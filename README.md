@@ -1,4 +1,5 @@
-![Heriot-Watt University logo](https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Heriot-Watt_University_logo.svg/600px-Heriot-Watt_University_logo.svg.png) 
+![Heriot-Watt University logo](https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Heriot-Watt_University_logo.svg/600px-Heriot-Watt_University_logo.svg.png)
+![C Programming Language](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/217px-C_Programming_Language.svg.png)
 
 # Who I am
 
